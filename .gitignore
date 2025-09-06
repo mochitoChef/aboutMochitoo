@@ -1,3 +1,7 @@
 
 deploy.bat
 push_to_github.bat
+
+.env
+node_modules/
+.DS_Store
