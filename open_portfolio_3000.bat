@@ -11,3 +11,4 @@ echo If the page doesn't load, make sure the server is running:
 echo   python serve_portfolio.py
 echo.
 pause
+

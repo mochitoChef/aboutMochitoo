@@ -12,3 +12,4 @@ echo.
 echo If the page doesn't load, run: start_portfolio.bat
 echo.
 pause
+
