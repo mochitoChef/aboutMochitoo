@@ -1,2 +1,2 @@
 # aboutMochitoo
-Short description here.
+Describe the project here.
